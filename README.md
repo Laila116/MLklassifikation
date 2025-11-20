@@ -28,12 +28,12 @@ Macro Avg F1-Score: 0.62
 
 ## Confusion Matrices:
 
-<img src="ML_Klassifikation_1.png" width="700">
+<img src="ML_Klassifikation_1.png" width="800">
 
 
 ## ROC-Kurve 
 
-<img src="image.png" width="700">
+<img src="image.png" width="800">
 
 
 
