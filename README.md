@@ -14,23 +14,26 @@ Ziel ist es, verschiedene ML-Modelle miteinander zu vergleichen, um zu bestimmen
 ## Modell-Ergebnisse
 
 # Random Forest – Klassifikationsbericht
-<img src="images/random_forest.png" width="420">
 Accuracy: 0.62
 Macro Avg F1-Score: 0.63
 
 # Gradient Boosting – Klassifikationsbericht
-<img src="images/gradient_boosting.png" width="420">
 Accuracy: 0.65
 Macro Avg F1-Score: 0.66
 
 # k-Nearest Neighbors – Klassifikationsbericht
-<img src="images/knn.png" width="420">
 Accuracy: 0.58
 Macro Avg F1-Score: 0.62
 
 
 ## Confusion Matrices:
 
+<img src="ML_Klassifikation_1.png" width="350">
+
+
+## ROC-Kurve 
+
+<img src="image.png" width="350">
 
 
 
